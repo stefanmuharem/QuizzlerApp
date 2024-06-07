@@ -60,18 +60,3 @@ This command will launch the quiz app, displaying the first question in the GUI.
 5. *Progression*:
     - The quiz continues to the next question until all questions are answered.
 
-## Contributing
-1. *Fork the repository*.
-2. *Create a new branch*:
-    sh
-    git checkout -b feature-name
-    
-3. *Make your changes and commit them*:
-    sh
-    git commit -m 'Add some feature'
-    
-4. *Push to the branch*:
-    sh
-    git push origin feature-name
-    
-5. *Open a pull request*.
