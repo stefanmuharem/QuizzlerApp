@@ -29,22 +29,26 @@ quizzler-app-start/
 
 ### Installation
 1. *Clone the repository*:
-    sh
+    ```
     git clone https://github.com/your-username/quizzler-app.git
+    ```
     
 2. *Navigate to the project directory*:
-    sh
+    ```
     cd quizzler-app
+    ```
     
 3. *Install the required dependencies*:
-    sh
+    ```
     pip install -r requirements.txt
+    ```
     
 
 ### Usage
 To run the application:
-sh
+```
 python main.py
+```
 
 This command will launch the quiz app, displaying the first question in the GUI. You can interact with the app by selecting your answers and navigating through the questions.
 
